@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to EazyBank accounts related Prod APIs"
   contactDetails:
     name: "Winston - Product Owner"
-    email: "winston@eazybank.com"
+    email: "{cipher}7f00f054907aaf718aa49ed7ef0f1efaa271199c8cc53537bd72f20d99691098d680dfdb79b5b810ca030075cfb9d305"
   onCallSupport:
     - 9094949494
     - 9490909090
