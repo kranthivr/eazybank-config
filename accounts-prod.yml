@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts network check related APIs"
+  message: "Welcome to EazyBank accounts so config hookdeck cli was wrong APIs"
   contactDetails:
     name: "Winston - Product Owner"
     email: "{cipher}7f00f054907aaf718aa49ed7ef0f1efaa271199c8cc53537bd72f20d99691098d680dfdb79b5b810ca030075cfb9d305"
